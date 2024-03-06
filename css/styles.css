@@ -288,7 +288,7 @@ address {
 .icons-list {
   display: flex;
   justify-content: center;
-  column-gap: 24px;
+  gap: 24px;
 }
 .icons-list-item {
   width: 40px;
